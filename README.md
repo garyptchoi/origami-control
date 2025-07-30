@@ -1,6 +1,6 @@
 # Rigidity control of general origami structures
 
-<img src = "https://github.com/garyptchoi/origami-control/blob/main/cover.jpg" height="300" />
+<img src = "https://github.com/garyptchoi/origami-control/blob/main/cover.png" height="300" />
 
 This repository contain simulation codes for controlling the rigidity of general origami structures by incrementally adding facet planarity constraints.
 
