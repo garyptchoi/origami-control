@@ -13,10 +13,10 @@ Any comments and suggestions are welcome.
 If you use this code in your work, please cite the following paper:
 
 R. Li and G. P. T. Choi,
-"[Rigidity control of general origami structures.](https://arxiv.org/abs/2507.16934)"
-Preprint, arXiv:2507.16934.
+"[Rigidity control of general origami structures.](https://doi.org/10.1038/s42005-026-02640-5)"
+Communications Physics, 9, 217, 2026.
 
-Copyright (c) 2025, Rongxuan Li and Gary P. T. Choi
+Copyright (c) 2025-2026, Rongxuan Li and Gary P. T. Choi
 
 https://github.com/garyptchoi/origami-control
 
